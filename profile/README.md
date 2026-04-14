@@ -5,6 +5,7 @@
 <p align="center">
   <img width="60%" src="https://github.com/user-attachments/assets/e0397c12-319b-467d-8ddc-1ab11ec67896" />
 </p>
+<br/>
 
 ## ✨ 서비스 소개
 
@@ -19,13 +20,57 @@ Gridam은 사용자의 일기를 기반으로 감정을 분석하고,
 - 🎨 감정 카드 및 이미지 생성  
 - 🌐 피드 공유  
 - 📊 감정 통계 및 캘린더  
-- 🔔 알림  
+- 🔔 알림
+
+<br/>
+
+## 🖼️ 화면
+### 📔 내 일기장
+<p align="center">
+  <img width="45%" height="927" alt="image 220" src="https://github.com/user-attachments/assets/22ecb65e-c3e5-4f78-94aa-aca52eadb71e" />  
+</p>  
+
+
+### 📝 일기 작성
+<p align="center">
+  <img width="45%" height="757" alt="image 220" src="https://github.com/user-attachments/assets/4a498f2a-c64f-4861-a0ad-bb9ed3192a95" />
+</p>
+
+### 🎨 감정 카드
+<p align="center">
+  <img width="45%" height="741" alt="image 221" src="https://github.com/user-attachments/assets/ab520e9e-a051-4bda-a40b-9a60d43b8cfa" />
+  <img width="45%" height="926" alt="image 221" src="https://github.com/user-attachments/assets/6fc29420-fcc3-4d39-bae0-5ba4f5f1fc61" />
+</p>
+
+### 📊 통계 / 캘린더
+<p align="center">
+  <img width="45%" height="950" alt="image" src="https://github.com/user-attachments/assets/c95ca513-70d5-43d0-82bb-2efbce7c8260" />
+  <img width="45%" height="878" alt="image" src="https://github.com/user-attachments/assets/a15bc0fc-ca87-49af-87f5-5cbaef0b9e07" />
+</p>
+
+### 🌐 피드
+<p align="center">
+  <img width="45%" height="747" alt="image 221" src="https://github.com/user-attachments/assets/26ba1c89-98aa-4658-ab4c-e4629ad26202" />
+</p>
+
+### 🔔 알림
+<p align="center">
+  <img width="45%" height="801" alt="image 220" src="https://github.com/user-attachments/assets/344b4f4d-5dad-477c-9cb0-11e94a1faee4" />
+</p>
+
+### 👤 프로필&설정
+<p align="center">
+  <img width="45%" height="800" alt="image 220" src="https://github.com/user-attachments/assets/a282d549-5f2b-432a-9c09-8ceea5f1562e" />
+  <img width="45%" height="798" alt="image 221" src="https://github.com/user-attachments/assets/bc89d411-12bc-4268-b961-8d6e865138c4" />
+</p>
+<br/>
 
 ## 🏗️ 아키텍처
 
 <p align="center">
   <img width="65%" src="https://github.com/user-attachments/assets/d8447f7f-ce5e-4f68-ba20-f8119212d62d" />
 </p>
+<br/>
 
 ## 🛠 기술 스택
 
@@ -34,6 +79,10 @@ Gridam은 사용자의 일기를 기반으로 감정을 분석하고,
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcnui-000000?style=flat&logo=shadcnui&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend
@@ -55,13 +104,14 @@ Gridam은 사용자의 일기를 기반으로 감정을 분석하고,
   <img src="https://img.shields.io/badge/KakaoCloud-FFCD00?style=flat&logo=kakao&logoColor=black"/>
 </p>
 
-### 🤖 Infra
+### ⚙️ Infra
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/KakaoCloud-FFCD00?style=flat-square&logo=kakao&logoColor=black" />
   <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
+<br/>
 
 ## 👥 Team
 
@@ -82,3 +132,7 @@ Gridam은 사용자의 일기를 기반으로 감정을 분석하고,
 |:---:|:---:|
 | FE | FE |
 | [전지우](https://github.com/hdsjiw) | [김범진](https://github.com/Beom2020) |
+
+## 개발 기간
+#### 개발 기간: 2025. 04 ~ 2025. 06
+
